@@ -27,6 +27,7 @@ void print_triangle(int leftCol, int size)
 }
 
 //Prints an arrow
+// Comment
 void print_arrow(int leftCol, int size, int stemWidth)
 {
     for (int row = 0; row <= size; row++)
